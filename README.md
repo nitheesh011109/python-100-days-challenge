@@ -1,2 +1,52 @@
-# python-100-days-challenge
-Documenting my 100 Days of Python journey by building 100 projects, improving each with custom features, and pushing daily progress to GitHub.
+# 🐍 100 Days of Python
+
+🚀 My journey of building 100 Python projects in 100 days.
+
+## 📅 Start Date-[16-05-2026]
+
+## 🎯 Goal
+To become a strong Python developer by building real-world projects, improving problem-solving skills, and maintaining consistency.
+
+---
+
+## 📌 Progress Tracker
+
+| Day | Project Name | Status | Link |
+|-----|------------|--------|------|
+| Day 1 |  | ✅ |  |
+| Day 2 |  | ✅ |  |
+| Day 3 |  | 🔄 |  |
+
+---
+
+## 🧠 What I'm Learning
+- Python fundamentals
+- Object-Oriented Programming (OOP)
+- APIs & Web Development
+- Automation & Scripting
+- Debugging & Problem Solving
+
+---
+
+## ⚙️ Tech Stack
+- Python 🐍
+- Git & GitHub
+- VS Code
+
+---
+
+## 🔥 Highlights
+- Built real-world projects
+- Added custom improvements beyond course content
+- Maintaining daily consistency
+- Writing clean and readable code
+
+---
+
+## 📈 My Commitment
+I will push at least one update every day and continuously improve my projects.
+
+---
+
+## 🤝 Connect With Me
+[https://github.com/nitheesh011109]
