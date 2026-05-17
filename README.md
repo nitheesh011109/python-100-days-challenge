@@ -14,8 +14,9 @@ To become a strong Python developer by building real-world projects, improving p
 | Day | Project Name | Status | Link |
 |-----|------------|--------|------|
 | Day 1 | Band Name Generator | ✅ | [View](./Band_name_generator.py) |
-| Day 2 |  | ✅ |  |
-| Day 3 |  | 🔄 |  |
+| Day 2 | Tip Calculator | ✅ | [View](./Tip_calculator.py) |
+| Day 3 | Treasure Island | ✅ | [View](./Treasure_island.py) |
+| Day 4 | Rock Paper Scissors | 🔄 |  |
 
 ---
 
