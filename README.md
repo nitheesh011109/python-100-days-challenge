@@ -13,7 +13,7 @@ To become a strong Python developer by building real-world projects, improving p
 
 | Day | Project Name | Status | Link |
 |-----|------------|--------|------|
-| Day 1 | Band Name Generator | ✅ | [View](./Day-01) |
+| Day 1 | Band Name Generator | ✅ | [View](./Band_name_generator.py) |
 | Day 2 |  | ✅ |  |
 | Day 3 |  | 🔄 |  |
 
