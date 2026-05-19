@@ -17,7 +17,9 @@ To become a strong Python developer by building real-world projects, improving p
 | Day 2 | Tip Calculator | ✅ | [View](./Tip_calculator.py) |
 | Day 3 | Treasure Island | ✅ | [View](./Treasure_island.py) |
 | Day 4 | Rock Paper Scissors | ✅ | [View](./Rock_paper_scissors.py) |
-| Day 5 | Password  Generator | 🔄 | |
+| Day 5 | Password  Generator | ✅ | [View](./Password_generator.py)|
+| Day 6 | Hangman | ✅ | [View](./Hangman.py)|
+| Day 7 | Caesar Cipher | 🔄 |  |
 
 ---
 
