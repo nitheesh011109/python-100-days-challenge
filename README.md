@@ -21,6 +21,7 @@ To become a strong Python developer by building real-world projects, improving p
 | Day 6 | Hangman | ✅ | [View](./Hangman.py) |
 | Day 7 | Caesar Cipher | ✅ | [View](./Caesar_cipher.py) |
 | Day 8 | Secret Auction | ✅ | [View](.Secret_auction.py) |
+| Day 9 | Calculator | 🔄 |  | 
 ---
 
 ## 🧠 What I'm Learning
