@@ -24,6 +24,8 @@ To become a strong Python developer by building real-world projects, improving p
 | Day 9 | Calculator | ✅ | [View](./Calculator.py) |
 | Day 10 | Black Jack | ✅ | [View](./Blackjack.py) |
 | Day 11 | Number guessing | ✅ | [View](./Guess_name.py) |
+| Day 12 | Higher Lower Game | 🔄 | In Progress 🚧 |
+
 
 ---
 
