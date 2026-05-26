@@ -29,6 +29,7 @@ To become a strong Python developer by building real-world projects, improving p
 | Day 10 | Black Jack | ✅ | [View](./Blackjack.py) |
 | Day 11 | Number guessing | ✅ | [View](./Guess_number.py) |
 | Day 12 | Higher Lower Game | ✅ | [View](./Higher_lower_game.py) |
+| Day 13 | Coffee Machine | ✅ | [View](./Coffee_machine.py) | 
 
 
 ---
