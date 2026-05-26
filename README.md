@@ -30,7 +30,7 @@ To become a strong Python developer by building real-world projects, improving p
 | Day 11 | Number guessing | ✅ | [View](./Guess_number.py) |
 | Day 12 | Higher Lower Game | ✅ | [View](./Higher_lower_game.py) |
 | Day 13 | Coffee Machine | ✅ | [View](./Coffee_machine.py) | 
-
+| Day 14 | Quiz Project | 🔄 | In Progress 🚧 | 
 
 ---
 
