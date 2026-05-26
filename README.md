@@ -1,4 +1,8 @@
+<div align='center'>
+  
 # 🐍 100 Days of Python
+
+</div>
 
 🚀 My journey of building 100 Python projects in 100 days.
 
