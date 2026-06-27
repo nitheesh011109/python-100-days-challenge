@@ -8,7 +8,7 @@ tim.speed("fastest")
 tim.penup()
 tim.hideturtle()
 rgb_color = []
-colors = colorgram.extract('image.jpg',50)
+colors = colorgram.extract('Hirst_dots.jpg',100)
 for color in colors:
     r = color.rgb.r
     g = color.rgb.g
