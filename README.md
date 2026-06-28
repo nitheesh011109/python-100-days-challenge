@@ -8,6 +8,7 @@
 
 ## 📅 Start Date-[16-05-2026]
 
+
 ## 🎯 Goal
 To become a strong Python developer by building real-world projects, improving problem-solving skills, and maintaining consistency.
 
@@ -66,3 +67,5 @@ I will push at least one update every day and continuously improve my projects.
 
 ## 🤝 Connect With Me
 [https://github.com/nitheesh011109]
+
+---
