@@ -1,8 +1,8 @@
 import time
 from turtle import Screen
-from player import Player
-from car_manager import CarManager
-from scoreboard import Scoreboard
+from Turtle_cross_player import Player
+from Turtle_cross_car_manager import CarManager
+from Turtle_cross_scoreboard import Scoreboard
 
 screen = Screen()
 screen.setup(width=600, height=600)
